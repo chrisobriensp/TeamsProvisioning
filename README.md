@@ -5,8 +5,8 @@ Please see accompanying blog post - <a href="https://cob-sp.com/TeamsProvisionin
 ## This project includes:
 
 - A static JSON file which provides the non-changing elements of a Teams template
-- Code to manipulate the JSON to add bits that change for each instance of a Team - the name, description, and owner for example. This is in the form of a C# console app
-- Code to make the appropriate call to the Microsoft Graph to provision the Team from the JSON
+- Some helper code to manipulate the JSON to add bits that change for each instance of a Team - the name, description, and owner for example. This is in the form of a C# console app
+- Helper code to make the appropriate call to the Microsoft Graph to provision the Team from the JSON
 
 ## The setup
 
